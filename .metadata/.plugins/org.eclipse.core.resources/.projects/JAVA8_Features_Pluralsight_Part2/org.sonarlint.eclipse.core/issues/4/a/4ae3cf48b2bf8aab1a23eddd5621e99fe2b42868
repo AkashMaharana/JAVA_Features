@@ -1,0 +1,35 @@
+
+]
+java:S1612&",Replace this lambda with a method reference.(£ÈÙ¥ùÿÿÿÿH¾RMINORZ
+CODE_SMELL
+X
+java:S1612:",Replace this lambda with a method reference.(×ò«H¿RMINORZ
+CODE_SMELL
+W
+java:S1612;",Replace this lambda with a method reference.(À‹¤NHÀRMINORZ
+CODE_SMELL
+W
+java:S1612;",Replace this lambda with a method reference.(À‹¤NHÁRMINORZ
+CODE_SMELL
+`
+java:S3655";Call "maxAgePerson.isPresent()" before accessing the value.(ßÄÕÊHÂRMAJORZBUG
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ßÄÕÊHÃRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(Ø¸¶ìøÿÿÿÿHÄRMAJORZ
+CODE_SMELL
+d	java:S106 "9Replace this use of System.out or System.err by a logger.(ş’ÍŠHÅRMAJORZ
+CODE_SMELL
+i	java:S106#"9Replace this use of System.out or System.err by a logger.(¥©İ„ùÿÿÿÿHÆRMAJORZ
+CODE_SMELL
+d	java:S106'"9Replace this use of System.out or System.err by a logger.(ÓıÀÿHÇRMAJORZ
+CODE_SMELL
+d	java:S106+"9Replace this use of System.out or System.err by a logger.(ÀÂ±­HÈRMAJORZ
+CODE_SMELL
+i	java:S106/"9Replace this use of System.out or System.err by a logger.(‡ÄÎÀıÿÿÿÿHÉRMAJORZ
+CODE_SMELL
+i	java:S1063"9Replace this use of System.out or System.err by a logger.(®‚ì€ıÿÿÿÿHÊRMAJORZ
+CODE_SMELL
+d	java:S1067"9Replace this use of System.out or System.err by a logger.(ôñÜ­HËRMAJORZ
+CODE_SMELL
+d	java:S106<"9Replace this use of System.out or System.err by a logger.(ÛñîöHÌRMAJORZ
+CODE_SMELL
